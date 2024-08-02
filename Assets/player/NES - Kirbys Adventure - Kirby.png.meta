@@ -135,9 +135,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 6
-        y: 3026
-        width: 17
-        height: 17
+        y: 3027
+        width: 16
+        height: 16
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,10 +155,10 @@ TextureImporter:
       name: idle2
       rect:
         serializedVersion: 2
-        x: 25
-        y: 3026
-        width: 18
-        height: 17
+        x: 26
+        y: 3027
+        width: 16
+        height: 16
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,7 +200,7 @@ TextureImporter:
         x: 71
         y: 3027
         width: 16
-        height: 17
+        height: 16
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,6 +256,132 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Kirby_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3002
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f811dc6cce442414bae0f26ada3c77ae
+      internalID: -567718907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Kirby_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3002
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662a3e57e07294a4ca0309d4d31f4bf0
+      internalID: 1544775585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Kirby_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3002
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d32ee69d8cb4214f91af0df16a1f0f8
+      internalID: -639596861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Kirby_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3002
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66041506041c1240b9bb6b35aa67f42
+      internalID: -1280792392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Kirby_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3002
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3f7bc19ee2f5d499c0490c58e648a8
+      internalID: 1094966466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Kirby_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3002
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b615032fa3e240e4595597a8cb38af34
+      internalID: -951671480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -268,6 +394,12 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       NES - Kirbys Adventure - Kirby_0: -1270182428
+      NES - Kirbys Adventure - Kirby_1: -567718907
+      NES - Kirbys Adventure - Kirby_2: 1544775585
+      NES - Kirbys Adventure - Kirby_3: -639596861
+      NES - Kirbys Adventure - Kirby_4: -1280792392
+      NES - Kirbys Adventure - Kirby_5: 1094966466
+      NES - Kirbys Adventure - Kirby_6: -951671480
       idle1: 1404614833
       idle2: -1522654375
       walk1: -402163790
